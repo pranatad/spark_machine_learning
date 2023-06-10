@@ -20,8 +20,10 @@ BIG DATA - Machine Learning
 
 ## Slide 48 dan 49
 
- Load textFile <code>Ratings.dat</code> kemudian parallelize variable myData dan mapping file yg telah di load. Kemudian train totalRatings menggunakan metode ALS untuk mendapatkan rekomendasi produk. dan Menampilkan statistik summary mulai dari rata", varian, dll dari vectorRdd rating yang telah di proses sebelumnya
+ Load textFile <code>Ratings.dat</code> kemudian parallelize variable myData dan mapping file yg telah di load. Kemudian train totalRatings menggunakan metode ALS untuk mendapatkan rekomendasi produk. 
   ![](images/4.png)
+  
+ Menampilkan statistik summary mulai dari rata", varian, dll dari vectorRdd rating yang telah di proses sebelumnya
         
   ![](images/5.png)
 
@@ -37,6 +39,7 @@ kemudian training data dengan Kmeans. dengan jumlah kluster 2 dan maksimal itera
   ![](images/7.png)
   
 Hasil pada folder :
+
 ![](images/8.png)
 
    
